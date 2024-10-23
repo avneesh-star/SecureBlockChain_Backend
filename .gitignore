@@ -1,1 +1,11 @@
-/.vs
+/.vscode/
+.vs/
+.vscode/
+/*.suo
+/*.user
+/*.userosscache
+/*.sln.docstates
+
+# Ignore build results
+**/bin/
+**/obj/
