@@ -9,5 +9,5 @@
 # Ignore build results
 **/bin/
 **/obj/
-SecureBlockChain_Backend/bin/
-SecureBlockChain_Backend/obj/
+/SecureBlockChain_Backend/bin/
+/SecureBlockChain_Backend/obj/
