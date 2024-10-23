@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "SupplyBlockChain_Backend.Controllers.AccountController",
+    "Method": "LogIn",
+    "RelativePath": "api/Account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SupplyBlockChain_Backend.Dtos.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SupplyBlockChain_Backend.Controllers.BlockChainController",
+    "Method": "GetChain",
+    "RelativePath": "api/BlockChain",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SupplyBlockChain_Backend.Controllers.BlockChainController",
+    "Method": "CreateTransaction",
+    "RelativePath": "api/BlockChain/transaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SupplyBlockChain_Backend.Dtos.AddTransactionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SupplyBlockChain_Backend.Controllers.UserController",
+    "Method": "GetUsers",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

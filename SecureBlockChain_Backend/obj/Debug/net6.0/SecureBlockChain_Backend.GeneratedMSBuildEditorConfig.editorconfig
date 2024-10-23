@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SecureBlockChain_Backend
+build_property.RootNamespace = SecureBlockChain_Backend
+build_property.ProjectDir = D:\Dev-Pract\DotNet\BlockChain\SecureBlockChain_Backend\SecureBlockChain_Backend\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Dev-Pract\DotNet\BlockChain\SecureBlockChain_Backend\SecureBlockChain_Backend
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/Downloads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG93bmxvYWRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/GenerateQrCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJhdGVRckNvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/LogOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nT3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/Shared/IndexLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEluZGV4TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/Shared/MinimalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXE1pbmltYWxMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/ShowProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvd1Byb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev-Pract/DotNet/BlockChain/SecureBlockChain_Backend/SecureBlockChain_Backend/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
